@@ -7,4 +7,5 @@ run :npx hardhat node
 in ther terminal Run :
 
 -npx hardhat run scripts/deploy.ts
+
 -npx hardhat test

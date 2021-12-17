@@ -4,6 +4,7 @@ this cover the still under developpement version of the crowd sale and vesting c
 Usage
 
 run :npx hardhat node
+
 in ther terminal Run :
 
 -npx hardhat run scripts/deploy.ts

@@ -1,0 +1,36 @@
+wmc.mintTable(signers.address)
+wmc.initMint(signers.address)
+signers
+signers = await ethers.getSigner()
+signers = ethers.getSigner()
+let wmc = WMC.attach("0xf090f16dEc8b6D24082Edd25B1C8D26f2bC86128")
+WMC
+let WMC = await ethers.getContractFactory("WunzoMainContract")
+await ethers.getContractFactory("WunzoMainContract")
+ethers.getContractFactory("WunzoMainContract")
+WunzoMainContract
+const WunzoMainContract = await ethers.getContract
+WunzoMainContract
+  const WunzoMainContract = await ethers.getContract
+await tbl.owner()
+(await tbl.totalSupply()).toString()
+await tbl.totalSupply()
+tbl.totalSupply()
+table.totalSupply()
+tbl.address
+tbl = table.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+table =await  ethers.getContractFactory("WunzoTable")
+table = ethers.getContractFactory("WunzoTable")
+await t.name()
+t.name()
+t.address
+t
+t = token.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+*t = token.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+let t = token.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+token = await ethers.getContractFactory("WunzoToken")
+t.name()
+t.totalSupply()
+let t = token.attach("0x8f86403A4DE0BB5791fa46B8e795C547942fE4Cf")
+token
+token = await ethers.getContractFactory("WunzoToken")
